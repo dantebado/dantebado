@@ -3,7 +3,9 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on **WarpingCube**
+- 🛫 I’m currently working on [**@Despegar**](https://github.com/despegar)
+
+- 🕋 Startup with [@npyt](https://github.com/npyt), [@WarpingCube](https://github.com/warpingcube)
 
 - 👨‍💻 All of my projects are available at [www.dantebado.com](www.dantebado.com)
 
