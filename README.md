@@ -7,11 +7,9 @@
 
 - 🕋 Startup with [@npyt](https://github.com/npyt), [@WarpingCube](https://github.com/warpingcube)
 
-- 👨‍💻 All of my projects are available at [www.dantebado.com](www.dantebado.com)
+- 👨‍💻 Follow me at [www.dantebado.com](https://www.dantebado.com)
 
 - 📫 How to reach me **me@dantebado.com**
-
-- 📄 Know about my experiences [cv.dantebado.com](cv.dantebado.com)
 
 <br/><br/>
 
