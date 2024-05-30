@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dante Bado</h1>
-<h3 align="center">Software Developer based in Buenos Aires, Argentina</h3>
+<h3 align="center">Software Engineer based in Buenos Aires, Argentina</h3>
 
 <br/><br/>
 
