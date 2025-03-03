@@ -5,9 +5,9 @@
 
 - 🛫 I’m currently working at [**@Despegar**](https://github.com/despegar)
 - 💼 Tech startup with [@npyt](https://github.com/npyt), [@WarpingCube](https://github.com/warpingcube)
-- 🧑🏻‍🤝‍🧑🏽 My Linkedin [profile](https://www.linkedin.com/in/dantebado/)
-- 📓 My [CV](https://dantebado.com/cv)
-- 📫 How to reach me **dantebado@gmail.com**
+- 🧑🏻‍🤝‍🧑🏽 Ping me on Linkedin [profile](https://www.linkedin.com/in/dantebado/)
+- 📓 Reaad my [CV](https://dantebado.com/cv)
+- 📫 Reach me at **dantebado@gmail.com**
 
 <br/><br/>
 
